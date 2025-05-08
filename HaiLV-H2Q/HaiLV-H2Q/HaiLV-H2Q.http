@@ -1,0 +1,6 @@
+@HaiLV_H2Q_HostAddress = http://localhost:5239
+
+GET {{HaiLV_H2Q_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
